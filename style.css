@@ -1,0 +1,361 @@
+
+.d1{
+   
+    width: 580px;
+    height: 615px;
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 35px;
+   
+}
+
+.text
+{
+    position: relative;
+    display: inline-block;
+    margin-top: 80px;
+    margin-left: 100px;
+    font-size: 11px;
+    height:20px;
+}
+
+.text1
+{
+    display: inline-block;
+    position: relative;
+    margin-top: 50px;
+    height:20px;
+    width: 200px;
+    font-size: 40px;
+   
+}
+.pr
+{
+    margin-top: 30px;
+    margin-left: 40px;
+    font-size: 14px;
+    
+}
+.main{
+   
+    display: flex;
+   
+}
+.i{
+    width: 280px;
+    height: 300px;
+    padding-left: 70px;
+    margin-top: 20px;
+    
+}
+
+.img
+{
+   width: 280px;
+    height: 300px;
+    margin-left: 320px;
+    padding-bottom: 40px;
+    position: absolute;
+}
+
+.s1
+{
+    position: relative;
+    margin-left: 360px;
+    
+}
+.sub1
+{
+   
+   display: inline-block;
+    font-size: 11px;
+    margin-left: 9px;
+}
+
+.sub2
+{
+  
+    display: inline-block;
+    font-size: 30px;
+}
+
+#img3
+{
+    margin-top: 200px;
+   
+}
+
+.sub3
+{
+    
+    display: inline-block;
+     font-size: 11px;
+     margin-left: 9px;
+     margin-top: 210px;
+    
+}
+
+ .sub4
+{
+ 
+    display: inline-block;
+    font-size: 30px;
+
+}
+
+.s2
+{
+    position: relative;
+    margin-left: 360px;
+    
+}
+
+.s3
+{
+    position: relative;
+    margin-left: 360px;
+}
+.sub5
+{
+   
+    display: inline-block;
+     font-size: 11px;
+     margin-left: 9px;
+     margin-top: 9px;
+}
+
+.sub6
+{
+
+    display: inline-block;
+    font-size: 30px;
+
+}
+
+.s4
+{
+    position: relative;
+    margin-left: 360px;
+}
+
+#img4
+{
+    margin-top: 200px;
+}
+
+.sub7
+{
+   
+    display: inline-block;
+     font-size: 11px;
+     margin-left: 9px;
+     margin-top: 209px;
+}
+
+.sub8
+{
+  
+    display: inline-block;
+    font-size: 30px;
+}
+
+
+.container {
+    display: flex;
+}
+
+.help {
+
+    padding: 30px;
+    width: 25%;
+}
+
+.help h3 {
+    margin-left: 30px;
+    font-size: 24px;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.help ul {
+    list-style: none;
+    margin-left: 30px;
+}
+
+.help li a {
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 2;
+    color: white;
+    margin-bottom: 15px;
+    border: 2px;
+    text-size-adjust: 30px;
+}
+
+.help li a:hover {
+    color: skyblue;
+    text-decoration: underline;
+}
+
+
+.contactus {
+
+    padding: 30px;
+    width: 25%;
+}
+
+.contactus h3 {
+    font-size: 24px;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.contactus ul {
+    list-style: none;
+}
+
+.contactus li a {
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 2;
+    color: white;
+    margin-bottom: 15px;
+    border: 2px;
+    text-size-adjust: 30px;
+}
+
+.contactus li a:hover {
+    color: skyblue;
+    text-decoration: underline;
+}
+
+.quick {
+
+    padding: 30px;
+    width: 25%;
+}
+
+.quick h3 {
+    font-size: 24px;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.quick ul {
+    list-style: none;
+}
+
+.quick li a {
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 2;
+    color: white;
+    margin-bottom: 15px;
+    border: 2px;
+    text-size-adjust: 30px;
+}
+
+.quick li a:hover {
+    color: skyblue;
+    text-decoration: underline;
+}
+
+.social {
+
+    padding: 30px;
+    width: 25%;
+}
+
+.social h3 {
+
+    font-size: 24px;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.social ul {
+    list-style: none;
+}
+
+.social li img {
+
+    line-height: 2;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.social li:hover {
+
+    width: max-content;
+    background-color: rgb(92, 130, 143);
+    border-radius: 5px;
+}
+
+
+.copyright {
+    color: white;
+    margin-left: 75%;
+}
+
+.footer {
+
+    background-color: rgb(30, 30, 66);
+    width: 100%;
+    margin-top: 500px;
+}
+.footer {
+
+    background-color: rgb(30, 30, 66);
+    width: 100%;
+}
+
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(19, 19, 37);
+    width: 100%;
+    height: 100px;
+}
+
+.links {
+    display: flex;
+    width: 400px;
+    list-style-type: none;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.links li {
+    margin-top: 33px;
+    padding: 3px;
+}
+
+.links li a {
+    font-size: large;
+    font-weight: 500;
+}
+
+.links li:hover {
+
+    background-color: rgb(92, 130, 143);
+    border-radius: 5px;
+}
+
+
+.links li a {
+    text-decoration: none;
+    color: white;
+}
+
+.logo {
+
+    color: white;
+    font-family: 'Rubik Puddles', cursive;
+    font-weight: bold;
+    font-size: 30px;
+    width: 30px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
