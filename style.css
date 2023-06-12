@@ -160,29 +160,29 @@
 }
 
 
-.container {
+.ncontainer {
     display: flex;
 }
 
-.help {
+.nhelp {
 
     padding: 30px;
-    width: 25%;
+    width: 460px;
 }
 
-.help h3 {
+.nhelp h3 {
     margin-left: 30px;
     font-size: 24px;
     color: white;
     margin-bottom: 15px;
 }
 
-.help ul {
+.nhelp ul {
     list-style: none;
     margin-left: 30px;
 }
 
-.help li a {
+.nhelp li a {
     text-decoration: none;
     font-size: 16px;
     line-height: 2;
@@ -192,29 +192,29 @@
     text-size-adjust: 30px;
 }
 
-.help li a:hover {
+.nhelp li a:hover {
     color: skyblue;
     text-decoration: underline;
 }
 
 
-.contactus {
+.ncontactus {
 
     padding: 30px;
-    width: 25%;
+    width: 400px;
 }
 
-.contactus h3 {
+.ncontactus h3 {
     font-size: 24px;
     color: white;
     margin-bottom: 15px;
 }
 
-.contactus ul {
+.ncontactus ul {
     list-style: none;
 }
 
-.contactus li a {
+.ncontactus li a {
     text-decoration: none;
     font-size: 16px;
     line-height: 2;
@@ -224,28 +224,28 @@
     text-size-adjust: 30px;
 }
 
-.contactus li a:hover {
+.ncontactus li a:hover {
     color: skyblue;
     text-decoration: underline;
 }
 
-.quick {
+.nquick {
 
     padding: 30px;
-    width: 25%;
+    width: 410px;
 }
 
-.quick h3 {
+.nquick h3 {
     font-size: 24px;
     color: white;
     margin-bottom: 15px;
 }
 
-.quick ul {
+.nquick ul {
     list-style: none;
 }
 
-.quick li a {
+.nquick li a {
     text-decoration: none;
     font-size: 16px;
     line-height: 2;
@@ -255,36 +255,36 @@
     text-size-adjust: 30px;
 }
 
-.quick li a:hover {
+.nquick li a:hover {
     color: skyblue;
     text-decoration: underline;
 }
 
-.social {
+.nsocial {
 
     padding: 30px;
-    width: 25%;
+    width: 360px;
 }
 
-.social h3 {
+.nsocial h3 {
 
     font-size: 24px;
     color: white;
     margin-bottom: 15px;
 }
 
-.social ul {
+.nsocial ul {
     list-style: none;
 }
 
-.social li img {
+.nsocial li img {
 
     line-height: 2;
     color: white;
     padding-bottom: 10px;
 }
 
-.social li:hover {
+.nsocial li:hover {
 
     width: max-content;
     background-color: rgb(92, 130, 143);
@@ -292,33 +292,25 @@
 }
 
 
-.copyright {
+.ncopyright {
     color: white;
-    margin-left: 75%;
+    margin-left: 1120px;
 }
 
-.footer {
+.nfooter {
 
     background-color: rgb(30, 30, 66);
-    width: 100%;
     margin-top: 500px;
 }
-.footer {
 
-    background-color: rgb(30, 30, 66);
-    width: 100%;
-}
-
-
-.nav {
+.nnav {
     display: flex;
     justify-content: space-between;
     background-color: rgb(19, 19, 37);
-    width: 100%;
     height: 100px;
 }
 
-.links {
+.nlinks {
     display: flex;
     width: 400px;
     list-style-type: none;
@@ -326,36 +318,36 @@
     align-items: center;
 }
 
-.links li {
+.nlinks li {
     margin-top: 33px;
     padding: 3px;
 }
 
-.links li a {
+.nlinks li a {
     font-size: large;
     font-weight: 500;
 }
 
-.links li:hover {
+.nlinks li:hover {
 
     background-color: rgb(92, 130, 143);
     border-radius: 5px;
 }
 
 
-.links li a {
+.nlinks li a {
     text-decoration: none;
     color: white;
 }
 
-.logo {
+.nlogo {
     
     margin-top: 24px;
     margin-left: 15px;
 }
 
-.l1
+.ni1
 {
-    height: 50px;
-    width: 250px;
+    height: 40px;
+    width: 240px;
 }
